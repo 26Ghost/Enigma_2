@@ -1,0 +1,9 @@
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\bin\Debug\Enigma_2.exe.config
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\bin\Debug\Enigma_2.exe
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\bin\Debug\Enigma_2.pdb
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\obj\Debug\Enigma_2.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\obj\Debug\Enigma_2.Form1.resources
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\obj\Debug\Enigma_2.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\obj\Debug\Enigma_2.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\obj\Debug\Enigma_2.exe
+c:\users\anton\documents\visual studio 2012\Projects\Enigma_2\Enigma_2\obj\Debug\Enigma_2.pdb
